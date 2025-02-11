@@ -1,0 +1,9 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #1b1c30;
+    color: #fff;
+}
+
+.caixa img {
+    width: 185px;
+}
